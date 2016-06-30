@@ -33,3 +33,15 @@ A Python file
 - Packages are modules that contains other modules
 
 ## Absolute Imports
+
+`from module1.reader.reader import Reader`
+
+## Relative Imports
+
+`from .reader import Reader`
+
+- Can be helped but should be generally avoided
+
+## `__all__`
+
+- List of attribute names imported via `from module import *`
