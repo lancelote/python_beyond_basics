@@ -1,6 +1,7 @@
 import os
 
-from module1.reader.compressed import gzipped, bzipped
+from reader.compressed import gzipped
+from reader.compressed import bzipped
 
 EXTENSION_MAP = {
     '.bz2': bzipped.opener,
