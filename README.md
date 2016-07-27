@@ -13,5 +13,6 @@ Notes from the [Python: Beyond the Basics][1] pluralsight course
     - [`nonlocal`](timer/)
     - [Classes as Decorators](counter/)
     - [Class Instances as Decorators](tracer/)
+  - [Properties and Class Methods](module4/properties_and_class_methods.md)
 
  [1]: https://app.pluralsight.com/library/courses/python-beyond-basics
