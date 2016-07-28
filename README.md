@@ -14,5 +14,6 @@ Notes from the [Python: Beyond the Basics][1] pluralsight course
     - [Classes as Decorators](counter/)
     - [Class Instances as Decorators](tracer/)
   - [Properties and Class Methods](module4/properties_and_class_methods.md)
+  - [Strings and Representations](module5/strings_and_representations.ipynb)
 
  [1]: https://app.pluralsight.com/library/courses/python-beyond-basics
